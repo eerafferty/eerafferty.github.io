@@ -1,2 +1,4 @@
 # eerafferty.github.io
-Test repository 
+Test repository for GitHub workshop
+
+[museum](artbma.org)
